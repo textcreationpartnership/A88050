@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter written from a person of worth to a friend of his in London: discovering London and the kingdoms danger, and advising the City to adhere to the Parliament. Together, with a just and fair remonstrance of the honest and ingenious people of one of the neighbouring counties.</title>
+            <author>Person of Worth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88050</idno>
+            <idno type="STC">Wing L1763</idno>
+            <idno type="STC">Thomason E393_28</idno>
+            <idno type="STC">ESTC R201608</idno>
+            <idno type="EEBO-CITATION">99862108</idno>
+            <idno type="PROQUEST">99862108</idno>
+            <idno type="VID">160316</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88050)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160316)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E393[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter written from a person of worth to a friend of his in London: discovering London and the kingdoms danger, and advising the City to adhere to the Parliament. Together, with a just and fair remonstrance of the honest and ingenious people of one of the neighbouring counties.</title>
+                  <author>Person of Worth.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeer 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160316:1" rendition="simple:additions"/>
+            <p>A LETTER Written from a Perſon of worth to a Friend of his in LONDON: Diſcovering <hi>London</hi> and the <hi>King<g ref="char:EOLhyphen"/>doms</hi> Danger, and adviſing the <hi>City</hi> to ad<g ref="char:EOLhyphen"/>here to the <hi>Parliament.</hi>
+            </p>
+            <p>TOGETHER, With a Juſt and fair REMONSTRANCE of the Honeſt and Ingenious People of one of the Neighbouring Counties.</p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Yeer 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:160316:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:160316:2"/>
+            <p>
+               <seg rend="decorInit">C</seg>Ommend me to <hi>Nol Nod,</hi> and tell him that he hath very good friends abroad, that will not ſee him ſtarved in theſe hard times; aſ<g ref="char:EOLhyphen"/>ſure Mr. <hi>Sorwind</hi> that he is in ſome danger, tell him he had need be well victuall'd, and man'd in theſe ſtraights, the ſooner the better. Did you not hear the News from <hi>France,</hi> that <hi>Mounſieur Lia<g ref="char:EOLhyphen"/>mentrap,</hi> and ſome of his friends are impeached of high Treaſon? there is a very ſubtle plot layd to blow up Mr. <hi>Donys.</hi> Mr.
+<hi>Grips</hi> and his two Sonnes are very active againſt <hi>Mounſieur Liamentrap</hi> they plead that we muſt all be ruled by the Law of Nature; that <hi>Liamentrap</hi> hath forfeited all and therefore is not to be accounted himſelf. <hi>France,</hi> you know, is governed by a ſtanding
+<hi>Parliament,</hi> but ſtanding pools gather mud, and therefore muſt be drawn dry, and rid once a yeer; all he power, ſay the Populars, is in the people, they ſet up the <hi>Parliament,</hi> and they may pluck it down. On the other ſide it is plead<g ref="char:EOLhyphen"/>ed, that the Populars have a minde to introduce Tyranny and Anarchy both at once; for if they (do in the State, or in an Army, as they have done in the Church) place all the power in the Body, and none in the Officers, the bo<g ref="char:EOLhyphen"/>dy of the Army being moſt commonly corrupt, the Of<g ref="char:EOLhyphen"/>ficers muſt not be Diſſenters under pain of caſhiering, or ſomewhat worſe; It is whiſpered that <hi>London</hi> is like to be beſieged: and Mr. <hi>Grips</hi> ſaid ſhrewdly, that though the Demands which <hi>Joyce</hi> and his 400. men are about to make, will ſeem ſtrange and unreaſonable to the City and Parliament, yet yeeld they muſt, ſaith he, when they are <pb n="2" facs="tcp:160316:3"/>under the Rod. The King, they ſay, did forfeit all his Power by abuſing it; and now the Parliament have too after the like manner forfeited theirs. They talk of fortify<g ref="char:EOLhyphen"/>ing at <hi>Reding Albey,</hi> of poſſeſſing <hi>Windſor</hi> Caſtle, keep<g ref="char:EOLhyphen"/>ing ſtrong guards at <hi>Staines,</hi> and at
+<hi>Kingſton-bridge,</hi> that they may command the River. If ſome little Garrilons were made 4. or 5. miles round about <hi>London,</hi> they could never come to ſit down before it; and if they ſit down at a diſtance, it will be eaſie to beat up their Quarters, and it will be impoſſible for them to relieve one another, be<g ref="char:EOLhyphen"/>cauſe they can never have any Communion of Quarters. If <hi>Donys</hi> were diſſolved, they might undeceive the honeſt and ingenious people in every County.</p>
+            <p>Put on heroicall Spirits, brave Boyes of <hi>Mars,</hi> the 20. Guns ſent from hence are onely fit for to keep the Field, moſt of them were Sakers: the Pieces that are for battery are as yet left behinde; Mr.
+<hi>Grips</hi> and his two Sons are here making Proſelytes, but we are not eaſily perſwaded though they aſſure us that we do but riſe againſt the riſing Sun.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <label>1. <hi>Nol nod</hi>
+                     </label>
+                     <item>1. <hi>London.</hi>
+                     </item>
+                     <label>2. <hi>Sorwinde</hi>
+                     </label>
+                     <item>2. <hi>Windſor.</hi>
+                     </item>
+                     <label>3. <hi>Donys</hi>
+                     </label>
+                     <item>3. <hi>Synod.</hi>
+                     </item>
+                     <label>4. <hi>Lionentrap</hi>
+                     </label>
+                     <item>4. The <hi>Parliament.</hi>
+                     </item>
+                  </list> 
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:160316:3"/>
+            <head>The Happy Union.</head>
+            <p>WE of the County of — obſerving (the over<g ref="char:EOLhyphen"/>throw of the Priviledges both of Parliament and people
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be ſeriouſly endeavoured by ſome (who were not long ſince profeſſed Cavaleers) now in Arms under the fair vail of their love to the Parliament, make this fain and juſt Remonſtrance to all true Engliſh hearts:</p>
+            <p>We conſider, that if the Parliament of <hi>England</hi> be af<g ref="char:EOLhyphen"/>fronted, reviled, threatned, and even almoſt forced in a mutinous and rebellious way, to Anſwer the De<g ref="char:EOLhyphen"/>mands of daring Cavaliers, the Parliament is then no free Parliament, and the Act made by the three Eſtates for the Continuance of this Parliament being violated, we have cauſe to fear, that no Parliament will ever hereafter be free, or ſafe, and no Acts of Parliament be obſerved; and then no man can call his wife, or lands, or goods his own; farewell Liberty and Property.</p>
+            <p>We cannot but beleeve, that the rich City is an invi<g ref="char:EOLhyphen"/>ting bait not onely to ſome poore hungry Souldiers, but to ſome rich, yet greedy, Commanders; If ſome Mem<g ref="char:EOLhyphen"/>bers of either Houſe, againſt whom nothing is yet pro<g ref="char:EOLhyphen"/>ved, be demanded, muſt <hi>London</hi> be beſieged till eleven Members of the Houſe be tryed? Many women and chil<g ref="char:EOLhyphen"/>dren, in all probability, will be aff<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ighted out of their wits, and ſome out of their lives; the free Trade of the Kingdom will be ſtopped, hundreds undone, thouſands ſtarved, and the City of <hi>London</hi> ſacked, and ruined by the unjuſt practiſes of thoſe who cry for Juſtice.</p>
+            <p>We do therefore by theſe Preſents teſtifie and declare,
+<pb n="4" facs="tcp:160316:4"/>that we approve the Piety, Nobleneſſe, and Prudence of thoſe Collonels, other Officers and Souldiers, who re<g ref="char:EOLhyphen"/>fuſe to jovn with thoſe who are now drawing up in a Bo<g ref="char:EOLhyphen"/>dy to beſiege and force the two Houſes of P<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rliament, the famous Cities of <hi>London</hi> and
+<hi>Weſtminſter,</hi> and the ad<g ref="char:EOLhyphen"/>jacent parts to yeeld and ſubmit to ſuch Conditions as theſe men in Arms ſhall think fit to put upon them. And we do clearly proteſt, that we are ready upon Com<g ref="char:EOLhyphen"/>mand to ſerve both the Houſes, and the Cities with our lives and Eſtates againſt theſe gallant Mutineers, who complain of Grievances, and proteſt againſt Enemies, but will not declare what are their Grievances, or who are their Enemies.</p>
+            <p>We obſerve, that by ſundrie Declarations, falſe ſug<g ref="char:EOLhyphen"/>geſtions, and otherwiſe, theſe men in Arms do inſinuate into the favour of thoſe fooliſh people whom they do daily oppreſſe, by taking free quarter and otherwiſe; they promiſe in lord to prevent effuſion of blood, and yet en<g ref="char:EOLhyphen"/>deavour to engage and embroyl more Kingdoms then one in a bloody War; they vow that they will ſettle the juſt Liberties of the People, whom they do more and more enſlave.</p>
+            <p>Wherefore we call upon our Friends in this and the neighbouring Counties, even upon all our fellow-ſub<g ref="char:EOLhyphen"/>jects, to fall upon theſe Confederates (who are none of our fellow ſubject, becauſe they will not be ſubject to King or Parliament) and doubt not but that all ingeni<g ref="char:EOLhyphen"/>ous and honeſt people throughout the Land, will deteſt and abhor the curſed practiſes of theſe vain-glorious Hy<g ref="char:EOLhyphen"/>pocrites, now they are thus clearly diſcovered to the world.</p>
+            <p>We hear, that <hi>Joyce</hi> and ſome of the Iſle of
+<hi>Ely</hi> are to rule the King of three Kingdoms, and the Parliament is
+<pb n="5" facs="tcp:160316:4"/>to be in Wardſhip (now the Court of Wards is down) to <hi>Wat Tyler</hi> and <hi>Iack Straw;</hi> Sirs, the Spirit of the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> cannot (and the Scottiſh Nation will not) bear it; onely peradventure ſome <hi>Iriſh, French, Spaniſh, Italian Negroes</hi> may come under <hi>Goring</hi> to do Juſtice upon
+<hi>Lon<g ref="char:EOLhyphen"/>don.</hi>
+            </p>
+            <p>Friends, you of the meaneſt Rank, even you my Coun<g ref="char:EOLhyphen"/>trey-men that handle the Plough, and Whip, are free<g ref="char:EOLhyphen"/>born Engliſh, and have as good a Commiſſion as theſe Disbanded Bands: Come take up your Swords and come away; you are Engliſh-men, &amp; may be Souldiers; Come, come let us cry for Juſtice, Juſtice againſt theſe ſelf-Juſti<g ref="char:EOLhyphen"/>ciaries, and cry even whileſt we are fighting and bleeding with one lip and hand, we have not that Liberty, which true Engliſh-men are born to; and we will rather dye than looſe our <hi>Parliament,</hi> our <hi>Liberty,</hi> our <hi>London,</hi> our
+<hi>All.</hi>
+            </p>
+            <closer>
+               <signed>By Command of the Honeſt and Ingenious People of our County.</signed>
+               <date>June 22. 1647.</date>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
